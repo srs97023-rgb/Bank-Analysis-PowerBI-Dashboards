@@ -1,10 +1,14 @@
 # Bank Analysis – Power BI Dashboards
 
+Interactive Power BI dashboards that analyse **bank loan portfolio** data and **debit / credit transaction** data.
+
 ## Screenshots
-![Loan Overview](<img width="765" height="431" alt="BankAnalysis_Dashboardimage" src="https://github.com/user-attachments/assets/4a3cdb09-555c-47c7-add6-5708338c8d52" />
-)
-![Credit and Debit Analysis](<img width="717" height="442" alt="Debitcard_Creditcard_dashboard" src="https://github.com/user-attachments/assets/326b0150-4168-484f-9fc6-ceab328024d4" />
-)
+
+### Loan Overview
+![Loan Overview](https://github.com/user-attachments/assets/4a3cdb09-555c-47c7-add6-5708338c8d52)
+
+### Credit and Debit Analysis
+![Credit and Debit Analysis](https://github.com/user-attachments/assets/326b0150-4168-484f-9fc6-ceab328024d4)
 
 Interactive Power BI dashboards that analyse **bank loan portfolio** data and **debit / credit transaction** data.
 
