@@ -83,4 +83,4 @@ Data cleaning (Power Query), data modelling, DAX measures, KPI design, interacti
 
 ## Author
 **Shafiq Shaikh** – Mumbai, India
-[LinkedIn link] | [Email]
+
